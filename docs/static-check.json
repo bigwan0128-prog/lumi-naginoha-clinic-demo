@@ -1,0 +1,23 @@
+{
+  "html_pages": 16,
+  "local_references_checked": 387,
+  "errors": [],
+  "images": [
+    {
+      "file": "reception.webp",
+      "bytes": 147216
+    },
+    {
+      "file": "favicon.svg",
+      "bytes": 234
+    },
+    {
+      "file": "room.webp",
+      "bytes": 70104
+    },
+    {
+      "file": "og.png",
+      "bytes": 626965
+    }
+  ]
+}
